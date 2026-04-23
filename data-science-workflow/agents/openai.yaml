@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Science Workflow"
+  short_description: "EDA, feature engineering, and ML modeling"
+  default_prompt: "Use $data-science-workflow to analyze this dataset, build a baseline model, and explain the evaluation results."
